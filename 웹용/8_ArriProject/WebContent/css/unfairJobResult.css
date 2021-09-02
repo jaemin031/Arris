@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+table {
+    border-collapse: collapse;
+  	width: 80%;
+  	text-align: center;
+}
+
+#lawResult th, #lawyerList th {
+	color: black;
+	background-color: #bcf9ff; 	
+	text-align: center;
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#lawResult th, td {
+    border-bottom: 1px solid #ddd;
+	padding: 8px;
+}
+
+#lawyerList th, td {
+    border-bottom: 1px solid #ddd;
+	padding: 8px;
+}
+
+#lawResult tr{background-color: #f2f2f2;}
+
+#lawResult tr:hover {background-color: #ddd;}
+
+
+#lawyerList tr{background-color: #f2f2f2;}
+
+#lawyerList tr:hover {background-color: #ddd;}
+
+#numbers{
+	width: 60%;
+}
+
+#strong{
+	font-weight: bold;
+	color: red;
+	text-align: right;
+}
+	
+#tdresult {
+	color: black;
+}
+	

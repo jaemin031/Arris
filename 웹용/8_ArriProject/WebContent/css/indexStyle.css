@@ -1,0 +1,21 @@
+body {
+	text-align: right;
+    text-decoration:none;
+    font-weight: 400;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+}
+
+.w3-tangerine {
+    font-family: serif;
+	background-color: #00f0ff;
+}
+
+.container_12{
+	background-color: white;
+}
+
+.card-body{
+	color:black;
+}

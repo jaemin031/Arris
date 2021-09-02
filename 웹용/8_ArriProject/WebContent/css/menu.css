@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#nav {
+	background-color: #302F2B;
+	color: inherit;
+}
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: #00f0ff;
+}
+a.dropdown-item{
+	color: black;
+}

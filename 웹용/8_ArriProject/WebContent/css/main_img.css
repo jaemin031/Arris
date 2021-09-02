@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.carousel-inner img {
+	width: 100%;
+    height: auto;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: white;
+}
+
+#intro_p {
+	text-align: left;
+}

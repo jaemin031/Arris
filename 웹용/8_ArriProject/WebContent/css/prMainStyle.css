@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+a:hover {
+	color: white;
+}
+
+.card-title, .card-text {
+	color: black;
+}
+
+table{
+    border-collapse: collapse;
+  	width: 80%;
+  	text-align: center;
+  	border: 1px solid #c4c4c4;
+  	
+}
+
+th{
+	background-color: #e2e2e2; 
+	color: black;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+	padding: 8px;
+	text-align: center;
+}
+
+
+
+select {
+    font: inherit;
+    height: 27px;
+}
+
+
+#buttons{
+	text-align: left;
+}
+
+a:hover {
+    background-color: #2fc5fc;
+}

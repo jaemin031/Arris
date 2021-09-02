@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./
+Class-Path: .
+Rsrc-Main-Class: app.Arri_Sample_app
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
